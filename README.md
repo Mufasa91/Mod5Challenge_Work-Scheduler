@@ -30,7 +30,7 @@ THEN the saved events persist
 I've added more "personality" to make it more exciting to use!
 
 ## Screenshot
-[!screenshot](Mod5Challenge_Work-Scheduler.png)
+[!screenshot](/Mod5Challenge_Work-Scheduler.png)
 
 ## Application Link
 
