@@ -27,7 +27,7 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
-I've added more "personality" to make it more exciting to use!
+I've added more "personality" to make it more exciting to use as well as a live time!
 
 ## Screenshot
 ![screenshot](./Mod5Challenge_Work-Scheduler.png)
